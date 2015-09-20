@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.flickr.yogesh.PhotoViewActivity" >
+
+   <item  android:id="@+id/download"  
+        android:title="DownLoad"
+        android:showAsAction="always"
+        />  
+
+</menu>
